@@ -1,5 +1,5 @@
 from pyrogram import filters
-from pyrogram.types import Message
+from pyrogramtypes import Message
 
 from BrandrdXMusic import app
 from BrandrdXMusic.utils import extract_user, int_to_alpha
